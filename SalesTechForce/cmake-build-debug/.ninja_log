@@ -1,0 +1,27 @@
+# ninja log v5
+7	2834	7046190225877427	CMakeFiles/SalesTechForce.dir/main.cpp.obj	812d59d68e2d9ad1
+1295	1775	7045048461853849	SalesTechForce.exe	c3b0f5f882630482
+12	2921	7046170379636055	CMakeFiles/SalesTechForce.dir/functions.cpp.obj	e5dca86cbf51401b
+0	10	0	clean	a84090cb4edd80de
+2	157	7047512972407186	CMakeFiles/impl-Debug.ninja	2addfd11961183c8
+2726	3620	7046172817934787	libfunctions.a	e101625aa3601167
+3	2725	7046172808944687	CMakeFiles/functions.dir/lib/functions.cpp.obj	bf0598b7fa9fc4ac
+2	157	7047512972437191	build-Release.ninja	2addfd11961183c8
+2	157	7047512972387181	build.ninja	2addfd11961183c8
+2	2407	7046190221606460	CMakeFiles/SalesTechForce.dir/lib/functions.cpp.obj	bbddd1b5a4514c1f
+11	3179	7047511792380813	CMakeFiles/SalesTechForce.dir/Debug/lib/functions.cpp.obj	adac1162ba8764c7
+3	3795	7047511798529182	CMakeFiles/SalesTechForce.dir/Debug/main.cpp.obj	fa7b34dce2724db5
+0	9	0	clean:Debug	8746b167bb808d3
+2	157	7047512972417188	build-Debug.ninja	2addfd11961183c8
+2	157	7047512972427191	CMakeFiles/impl-Release.ninja	2addfd11961183c8
+2	157	7047512972447196	CMakeFiles/impl-RelWithDebInfo.ninja	2addfd11961183c8
+2	157	7047512972467205	build-RelWithDebInfo.ninja	2addfd11961183c8
+2	157	7047512972467205	CMakeFiles/impl-Debug.ninja	2addfd11961183c8
+2	157	7047512972467205	build-Debug.ninja	2addfd11961183c8
+2	157	7047512972467205	CMakeFiles/impl-Release.ninja	2addfd11961183c8
+2	157	7047512972467205	build-Release.ninja	2addfd11961183c8
+2	157	7047512972467205	CMakeFiles/impl-RelWithDebInfo.ninja	2addfd11961183c8
+2	157	7047512972467205	build-RelWithDebInfo.ninja	2addfd11961183c8
+2	157	7047512972467205	build.ninja	2addfd11961183c8
+3	3429	7047513006995025	CMakeFiles/SalesTechForce.dir/Debug/lib/functions.cpp.obj	adac1162ba8764c7
+8	4177	7047513014476722	CMakeFiles/SalesTechForce.dir/Debug/main.cpp.obj	fa7b34dce2724db5

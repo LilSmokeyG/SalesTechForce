@@ -1,0 +1,3 @@
+C:/Users/konse/CLionProjects/SalesTechForce/cmake-build-debug/CMakeFiles/SalesTechForce.dir
+C:/Users/konse/CLionProjects/SalesTechForce/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/konse/CLionProjects/SalesTechForce/cmake-build-debug/CMakeFiles/rebuild_cache.dir

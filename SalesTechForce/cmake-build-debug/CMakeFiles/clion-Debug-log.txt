@@ -1,0 +1,10 @@
+"C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.3.2/bin/ninja/win/x64/ninja.exe" -G "Ninja Multi-Config" C:/Users/konse/CLionProjects/SalesTechForceC:/Users/konse/CLionProjects/SalesTechForce/.. -S C:\Users\konse\CLionProjects\SalesTechForce -B C:\Users\konse\CLionProjects\SalesTechForce\cmake-build-debug
+CMake Warning:
+  Ignoring extra path from command line:
+
+   "C:/Users/konse/CLionProjects/SalesTechForceC:/Users/konse/CLionProjects"
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/konse/CLionProjects/SalesTechForce/cmake-build-debug
